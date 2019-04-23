@@ -36,3 +36,13 @@ mongoose.connection.once('open', function () {
 // Add your views (jade/pug files)
 
 
+/*
+Notes app:
+https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/
+
+Task mgmt:
+https://steemit.com/utopian-io/@rhotimee/node-task-management-app
+
+User authentication (backend only):
+https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e
+*/
